@@ -1,6 +1,6 @@
 🦈 **Desolation Drive - Welcome to Shark Shore!**  🌊
 
-In this video, we take a dive into Shark Shore, the latest addition to the Desolation Drive series—a polluted, post-apocalyptic beach where the waves crash against mountains of litter and deadly sharks patrol the waters. 
+Lets take a dive into Shark Shore, the latest addition to the Desolation Drive series; a polluted, post-apocalyptic beach where the waves crash against mountains of litter and deadly sharks patrol the waters. 
 
 Designed to fit seamlessly with Micro Machines Travel City, this toxic shoreline is packed with debris that tells the story of an abandoned paradise.
 
@@ -30,9 +30,13 @@ Files can be found here: [https://github.com/bigcrimping/desolationdrive_putridp
 
 Follow the assembly instructions "DD_PutridPowerStation_Build_Instructions.pdf"
 
-[DD_SharkShore_Build_Instructions.pdf](https://github.com/user-attachments/files/19273793/DD_SharkShore_Build_Instructions.pdf)
+![image](https://github.com/user-attachments/assets/f87d006e-a503-47cb-b7b2-9fa094e06153)
+
 
 Print & apply the custom labels for maximum post-apocalyptic realism.
+
+![image](https://github.com/user-attachments/assets/00713e85-3d5e-4a8e-87bc-a4398f99b2bb)
+
 
 
 
