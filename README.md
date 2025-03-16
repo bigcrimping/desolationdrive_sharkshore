@@ -1,12 +1,16 @@
-🚧 Desolation Drive: Putrid Powerstation 🚧
+🦈**Desolation Drive - Welcome to Shark Shore! **🌊
 
-Welcome to Desolation Drive, a series of post-apocalyptic miniature playsets designed for Micro Machines Travel City compatibility! This repo contains all the files you need to 3D print your own Shark Shore, a litter strewn beach with unfriendly occupants
+In this video, we take a dive into Shark Shore, the latest addition to the Desolation Drive series—a polluted, post-apocalyptic beach where the waves crash against mountains of litter and deadly sharks patrol the waters. 
+
+Designed to fit seamlessly with Micro Machines Travel City, this toxic shoreline is packed with debris that tells the story of an abandoned paradise.
+
+Brace yourself for a trip through this treacherous coastal wasteland—where nature fights back against human neglect!
 
 <img src="https://github.com/user-attachments/assets/6c2533e7-52a2-4542-88b7-dea2ef486127" width="800">
 
 YouTube Video Link
 
-https://www.youtube.com/watch?v=t10Xal90c0E
+[![Shark Shore](https://img.youtube.com/vi/t10Xal90c0E/0.jpg)](https://www.youtube.com/watch?v=t10Xal90c0E)
 
 
 📥 What's Included?
